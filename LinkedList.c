@@ -1,4 +1,4 @@
-//C Program uses to take in an input (amount of elements in linked list)
+Singly//C Program uses to take in an input (amount of elements in linked list)
 //Then use Bubble Sort, to sort them
 #include <stdio.h>
 #include <stdlib.h>
